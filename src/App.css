@@ -1,0 +1,20 @@
+
+
+#home  { 
+  background-image: url(https://bestanimations.com/Signs&Shapes/Hazards/danger-sign-animated-gif-30.gif);
+  background-size: cover;
+  height: 100vh; 
+}
+
+
+#Hobbies  { 
+  background-image: url(src/assets/bb.gif);
+  background-size: cover;
+  height: 100vh; 
+}
+
+#Contact { 
+  background-image: url(https://i.pinimg.com/originals/86/4e/59/864e592dc4b9ca7183fe9803975ce625.gif);
+  background-size: cover;
+  height: 100vh; 
+}
